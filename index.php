@@ -1,6 +1,3 @@
-<?php
-echo "Atividade 2 de PSI"
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,4 +9,3 @@ echo "Atividade 2 de PSI"
 </body>
 </html>
 
-?>
